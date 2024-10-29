@@ -1,0 +1,15 @@
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.AssemblyInfoInputs.cache
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.AssemblyInfo.cs
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.csproj.CoreCompileInputs.cache
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.sourcelink.json
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\bin\Debug\net8.0\Desafios RocketSeat.exe
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\bin\Debug\net8.0\Desafios RocketSeat.deps.json
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\bin\Debug\net8.0\Desafios RocketSeat.runtimeconfig.json
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\bin\Debug\net8.0\Desafios RocketSeat.dll
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\bin\Debug\net8.0\Desafios RocketSeat.pdb
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.dll
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\refint\Desafios RocketSeat.dll
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.pdb
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\Desafios RocketSeat.genruntimeconfig.cache
+C:\Projetos\Desafio-Fundamentos-C--RocketSeat\Desafios RocketSeat\obj\Debug\net8.0\ref\Desafios RocketSeat.dll

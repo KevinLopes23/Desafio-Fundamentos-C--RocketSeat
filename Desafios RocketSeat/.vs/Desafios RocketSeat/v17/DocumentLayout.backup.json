@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Desafio-Fundamentos-C--RocketSeat\\Desafios RocketSeat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{560CE0B1-3D29-46A3-A7A1-919EB4E05CE0}|Desafios RocketSeat.csproj|c:\\projetos\\desafio-fundamentos-c--rocketseat\\desafios rocketseat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560CE0B1-3D29-46A3-A7A1-919EB4E05CE0}|Desafios RocketSeat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{560CE0B1-3D29-46A3-A7A1-919EB4E05CE0}|Desafios RocketSeat.csproj|c:\\projetos\\desafio-fundamentos-c--rocketseat\\desafios rocketseat\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{560CE0B1-3D29-46A3-A7A1-919EB4E05CE0}|Desafios RocketSeat.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Projetos\\Desafio-Fundamentos-C--RocketSeat\\Desafios RocketSeat\\Data.cs",
+              "RelativeDocumentMoniker": "Data.cs",
+              "ToolTip": "C:\\Projetos\\Desafio-Fundamentos-C--RocketSeat\\Desafios RocketSeat\\Data.cs",
+              "RelativeToolTip": "Data.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:49:09.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\Desafio-Fundamentos-C--RocketSeat\\Desafios RocketSeat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projetos\\Desafio-Fundamentos-C--RocketSeat\\Desafios RocketSeat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:16:50.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
